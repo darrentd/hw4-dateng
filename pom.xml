@@ -80,28 +80,28 @@
     		<artifactId>analyzers</artifactId>
     		<version>4.3.0</version>
     		<scope>system</scope>
-    		<systemPath>${project.basedir}/lucene-4.3.0/lucene-analyzers-common-4.3.0.jar</systemPath>
+    		<systemPath>${project.basedir}/src/lucene-4.3.0/lucene-analyzers-common-4.3.0.jar</systemPath>
 		</dependency>
 		<dependency>
     		<groupId>org.apache.lucene</groupId>
     		<artifactId>benchmark</artifactId>
     		<version>4.3.0</version>
     		<scope>system</scope>
-    		<systemPath>${project.basedir}/lucene-4.3.0/lucene-benchmark-4.3.0.jar</systemPath>
+    		<systemPath>${project.basedir}/src/lucene-4.3.0/lucene-benchmark-4.3.0.jar</systemPath>
 		</dependency>
 		<dependency>
     		<groupId>org.apache.lucene</groupId>
     		<artifactId>codecs</artifactId>
     		<version>4.3.0</version>
     		<scope>system</scope>
-    		<systemPath>${project.basedir}/lucene-4.3.0/lucene-codecs-4.3.0.jar</systemPath>
+    		<systemPath>${project.basedir}/src/lucene-4.3.0/lucene-codecs-4.3.0.jar</systemPath>
 		</dependency>
 		<dependency>
     		<groupId>org.apache.lucene</groupId>
     		<artifactId>core</artifactId>
     		<version>4.3.0</version>
     		<scope>system</scope>
-    		<systemPath>${project.basedir}/lucene-4.3.0/lucene-core-4.3.0.jar</systemPath>
+    		<systemPath>${project.basedir}/src/lucene-4.3.0/lucene-core-4.3.0.jar</systemPath>
 		</dependency>
 	</dependencies>
 
